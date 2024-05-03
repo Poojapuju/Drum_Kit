@@ -1,0 +1,73 @@
+body , html {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    overscroll-behavior: none;
+    background-color: #151414;
+      
+}
+
+h1 {
+    font-size: 5vw;
+    color: rgb(35, 14, 169);
+    text-shadow: rgb(59, 116, 120) 5px 1px 5px;
+    border-style: groove;
+}
+
+.w {
+    background-image: url('img/tom1.png');
+    background-size: cover;
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.a {
+    background-image: url('img/tom2.png');
+    background-size: cover;
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.s {
+    background-image: url('img/tom3.png');
+    background-size: cover;
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.d {
+    background-image: url('img/tom4.png');
+    background-size: cover;
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.j {
+    background-image: url('img/crash.png');
+    background-size: cover;
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.k {
+    background-image: url('img/snare.png');
+    background-size: cover;
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+}
+.l {
+    background-image: url('img/kick.png');
+    background-size: cover;
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 30px;
+    box-shadow: 5px  4px 4px gainsboro;
+    border: 5px dashed black;
+}
+
